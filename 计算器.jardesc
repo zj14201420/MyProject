@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Administrator/Desktop/计算器.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Caculate/计算器.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="true" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=Caculate/src&lt;{Caculate.java[Caculate" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Caculate/src"/>
+        <file path="/Caculate/.project"/>
+        <file path="/Caculate/.classpath"/>
+    </selectedElements>
+</jardesc>
